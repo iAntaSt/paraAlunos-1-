@@ -1,0 +1,40 @@
+body{
+    background-color: lightgray;
+}
+.INICIO{
+    border: solid darkgreen 5px;
+    background-color: bisque;
+    font-size: 80px;
+    position: relative;
+    color: darkred;
+}
+#HOME{
+    background-color: lightblue;
+    position: absolute;
+    left: 1000PX;
+    position: relative;
+    top: 10px;
+    font-size: 40pt;
+}
+.Font{
+    font-style: SansSerif;
+    font-size: 20pt;
+    color: indigo;
+    position: relative;
+    top: 10px;
+}
+.Nome{
+    color: darkred;
+
+}
+#tabela{
+    color: red;
+    border-style: dashed red 5px;
+}
+#Sites{
+    background-color: yellow;
+    color: red;
+}
+#Final{
+    font-size: 40pt;
+}
