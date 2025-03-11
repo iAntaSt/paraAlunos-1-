@@ -5,16 +5,14 @@ body{
     border: solid darkgreen 5px;
     background-color: bisque;
     font-size: 80px;
-    position: relative;
     color: darkred;
+    justify-content: space-around;
 }
 #HOME{
     display: inline;
     background-color: lightblue;
     position: absolute;
-    left: 500PX;
-    position: relative;
-    top: 10px;
+    justify-content: center;
     font-size: 40pt;
 }
 .Font{
