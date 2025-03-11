@@ -11,7 +11,7 @@ body{
 #HOME{
     background-color: lightblue;
     position: absolute;
-    left: 1000PX;
+    left: 500PX;
     position: relative;
     top: 10px;
     font-size: 40pt;
@@ -22,6 +22,7 @@ body{
     color: indigo;
     position: relative;
     top: 10px;
+    left: 10px;
 }
 .Nome{
     color: darkred;
