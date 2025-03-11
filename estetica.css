@@ -9,6 +9,7 @@ body{
     color: darkred;
 }
 #HOME{
+    display: inline;
     background-color: lightblue;
     position: absolute;
     left: 500PX;
