@@ -38,6 +38,7 @@ body{
     border-style: dashed red 5px;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 #Sites{
     display: flex;
@@ -45,6 +46,7 @@ body{
     color: red;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 #Final{
     font-size: 40pt;
