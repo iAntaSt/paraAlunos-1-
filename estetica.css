@@ -7,7 +7,7 @@ body{
     background-color: bisque;
     font-size: 80px;
     color: darkred;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 #HOME{
@@ -49,7 +49,14 @@ body{
     flex-direction: column;
 }
 #Final{
-    font-size: 40pt;
+    font-size: 15pt;
+    display: flex;
+    background-color: bisque;
+    font-size: 80px;
+    color: darkred;
+    justify-content: space-between;
+    align-items: center;
+    font: comic-sans;
 }
 .Programar{
 display: flex;
@@ -58,5 +65,5 @@ justify-content: center;
 }
 .iframe{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
