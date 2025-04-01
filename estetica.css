@@ -2,39 +2,59 @@ body{
     background-color: lightgray;
 }
 .INICIO{
+    display: flex;
     border: solid darkgreen 5px;
     background-color: bisque;
     font-size: 80px;
     color: darkred;
     justify-content: space-around;
+    align-items: center;
 }
 #HOME{
-    display: inline;
+    display: flex;
     background-color: lightblue;
-    position: absolute;
     justify-content: center;
     font-size: 40pt;
+    align-items: center;
 }
 .Font{
+    display: flex;
     font-style: SansSerif;
     font-size: 20pt;
     color: indigo;
     position: relative;
     top: 10px;
     left: 10px;
+    flex-direction: column;
+    align-items: center;
 }
 .Nome{
     color: darkred;
 
 }
-#tabela{
+.tabela{
+    display: flex;
     color: red;
     border-style: dashed red 5px;
+    align-items: center;
+    justify-content: center;
 }
 #Sites{
+    display: flex;
     background-color: yellow;
     color: red;
+    align-items: center;
+    justify-content: center;
 }
 #Final{
     font-size: 40pt;
+}
+.Programar{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.iframe{
+    display: flex;
+    justify-content: space-around;
 }
